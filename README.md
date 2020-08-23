@@ -1,4 +1,4 @@
-import sys
+Lagiimport sys
 
 import time
 
