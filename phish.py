@@ -39,8 +39,8 @@ def banner():
     runntxt(GL+" \\\___..___// ")
     runntxt(GL+"  `-(    )-'          \033[0;1m [ \033[31mPHISING GAME  \033[0;1m] ")
     runntxt(GL+"    _|__|_ ")
-    runntxt(GL+"   /_|__|_\    \033[33;1m* \033[36;1mAuthor  : \033[32m Mr.G4L4N9 ")
-    runntxt(GL+"   /_|__|_\    \033[33;1m* \033[36;1minstagram :\033[32m @GALANG_021")
+    runntxt(GL+"   /_|__|_\    \033[33;1m* \033[36;1mAuthor  : \033[32m Ridwan Rigns ")
+    runntxt(GL+"   /_|__|_\    \033[33;1m* \033[36;1minstagram :\033[32m WibiLover")
     runntxt(GL+"   /_\__/_\    \033[90;1m=================================> ")
     runntxt(GL+"    \ || / _)")
     runntxt(GL+"      ||  ( )")
@@ -77,6 +77,6 @@ class Main:
                   os.system("bash dcim.sh")
                   print ("      \033[32mMENUNGGU...")
     else:
-     tik (R+"      SILAHKAN KEMBALI !!! ")
-
+     tik (R+"      SUBS DULU RIDWAN KECHIL !!! ")
+     Subscribe dulu lalu balik
 main()
